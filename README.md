@@ -4,4 +4,4 @@ add new line
 
 add amend
 
-add new line 2
+add new line 1
